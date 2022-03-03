@@ -25,5 +25,5 @@ App feito para Sparta Labs, com intuito de ser um app com todas localidades na e
 + npx react-native run-ios
 
 <p align='center'>
-<img widh={460} heigth={300} src={'assets/ezgif.com-gif-maker.gif'} >
+<img widh={460} heigth={300} src=assets/ezgif.com-gif-maker.gif >
 </p>
